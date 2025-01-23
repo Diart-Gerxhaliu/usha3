@@ -64,7 +64,7 @@ function Tabel() {
                 </div>
             )}
 
-            {/* Table Section */}
+            
             <div className="tabel">
                 <table>
                     <thead>
